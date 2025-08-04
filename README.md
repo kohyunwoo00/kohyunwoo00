@@ -9,6 +9,12 @@
   <em>배포 자동화와 운영 환경 구축에 흥미를 가지고 꾸준히 학습하고 있습니다.</em>
 </p>
 
+<div align="center">
+  <a href="mailto:hyunwoo36003@naver.com">
+    <img src="https://img.shields.io/badge/Email-hyunwoo36003@naver.com-blue?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 ---
 
 ## 🔧 Tech Stack
