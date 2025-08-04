@@ -75,8 +75,13 @@
 
 ## 🌟 GitHub Stats & Fun
 
+<div align="center">
+
 ### ✍️ Typing Animation
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=500&lines=Full-Stack+Developer+Kohyunwoo;지속적으로+성장하고+도전합니다!)
+
+</div>
+
 
 ### 🐱 Cute Octocat
 <img src="https://octodex.github.com/images/yaktocat.png" width="200"/>
